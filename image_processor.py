@@ -100,16 +100,3 @@ image_adapter.register_adapter("tiff", tiff_adapter())
 
 
 
-
-
-image_adapter.register_adapter("jpeg", jpeg_adapter())
-image_adapter.register_adapter("png", png_adapter())
-image_adapter.register_adapter("bmp", bitmap_adapter())
-image_adapter.register_adapter("gif", gif_adapter())
-image_adapter.register_adapter("eps", eps_adapter())
-image_adapter.register_adapter("raw", raw_adapter())
-image_adapter.register_adapter("raw", raw_adapter())
-image_adapter.register_adapter("tiff", tiff_adapter())
-
-
-
